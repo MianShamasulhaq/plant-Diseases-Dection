@@ -1,0 +1,6 @@
+gunicorn
+Pillow
+Django
+skorch
+torch
+torchvision
